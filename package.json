@@ -21,6 +21,6 @@
         "cordova-plugin-dialogs": "~1.2.1",
         "cordova-plugin-statusbar": "git+https://github.com/apache/cordova-plugin-statusbar.git",
         "cordova-plugin-whitelist": "~1.2.1",
-        "phonegap-plugin-push": "~1.8.0"
+        "phonegap-plugin-push": "~2.3.0"
     }
 }
