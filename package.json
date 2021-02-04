@@ -17,7 +17,7 @@
         }
     },
     "dependencies": {
-        "cordova-plugin-console": "~1.0.3",
+        "cordova-plugin-console": "~1.1.0",
         "cordova-plugin-dialogs": "~1.2.1",
         "cordova-plugin-statusbar": "git+https://github.com/apache/cordova-plugin-statusbar.git",
         "cordova-plugin-whitelist": "~1.2.1",
